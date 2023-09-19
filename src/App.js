@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react';
-// import Nome from './components/Nome'
 
 function App() {
   const [input, setInput] = useState('');
